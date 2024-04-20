@@ -1,0 +1,19 @@
+.box{
+    
+    height: 500px;
+}
+/*paralax*/
+.parallax-window {
+    min-height: 400px;
+    background: transparent;
+}
+/*curved text*/
+/**
+ * Text 1
+ */
+#text1
+{  
+    overflow:         hidden;
+    color:            #ffffff;
+    background-color: #3fafee;
+}
